@@ -10,7 +10,7 @@ only files here are the published privacy-policy page (`index.html`) and this RE
 
 ## Copyright & licensing
 
-© 2026 Benderterminal. **All rights reserved.**
+© 2026 Bender Terminal. **All rights reserved.**
 
 This content is published solely as the official privacy policy for the PAR-TEE app. **No license**
 is granted to copy, reuse, redistribute, or adapt it. "PAR-TEE" and its associated branding are
